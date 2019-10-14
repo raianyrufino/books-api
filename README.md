@@ -1,6 +1,6 @@
-# LIVROS-API
+# BOOKS-API
 
-This API was developed for the purpose of providing information for the [Livros-app](https://github.com/yaakovdantas/livros-app)
+This API was developed for the purpose of providing information for the [Books-app](https://github.com/yaakovdantas/livros-app)
 
 ## Dependencies
 
